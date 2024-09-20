@@ -1,0 +1,14 @@
+D:\221243\Lab4\UDPClient\bin\Debug\net8.0\TCPClient.exe
+D:\221243\Lab4\UDPClient\bin\Debug\net8.0\TCPClient.deps.json
+D:\221243\Lab4\UDPClient\bin\Debug\net8.0\TCPClient.runtimeconfig.json
+D:\221243\Lab4\UDPClient\bin\Debug\net8.0\TCPClient.dll
+D:\221243\Lab4\UDPClient\bin\Debug\net8.0\TCPClient.pdb
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\TCPClient.AssemblyInfoInputs.cache
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\TCPClient.AssemblyInfo.cs
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\TCPClient.csproj.CoreCompileInputs.cache
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\TCPClient.dll
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\refint\TCPClient.dll
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\TCPClient.pdb
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\TCPClient.genruntimeconfig.cache
+D:\221243\Lab4\UDPClient\obj\Debug\net8.0\ref\TCPClient.dll

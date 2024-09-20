@@ -1,0 +1,14 @@
+D:\221243\Lab4\TCPListener\bin\Debug\net8.0\TCPListener.exe
+D:\221243\Lab4\TCPListener\bin\Debug\net8.0\TCPListener.deps.json
+D:\221243\Lab4\TCPListener\bin\Debug\net8.0\TCPListener.runtimeconfig.json
+D:\221243\Lab4\TCPListener\bin\Debug\net8.0\TCPListener.dll
+D:\221243\Lab4\TCPListener\bin\Debug\net8.0\TCPListener.pdb
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\TCPListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\TCPListener.AssemblyInfoInputs.cache
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\TCPListener.AssemblyInfo.cs
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\TCPListener.csproj.CoreCompileInputs.cache
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\TCPListener.dll
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\refint\TCPListener.dll
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\TCPListener.pdb
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\TCPListener.genruntimeconfig.cache
+D:\221243\Lab4\TCPListener\obj\Debug\net8.0\ref\TCPListener.dll
